@@ -46,5 +46,5 @@ I am a researcher and engineer based in Gunma, Japan, currently studying at Gunm
 
 - 🌐 **Portfolio Web:** [https://ludwig.guru/s/to+be+inserted](https://ludwig.guru/s/to+be+inserted)
 - 💼 **LinkedIn:** [tsukamotoriku](https://www.linkedin.com/in/tsukamotoriku/)
-- 📝 **Qiita:** [ramalong](https://qiita.com/ramalong)
+- 📝 **Qiita:** [ramalong](https://qiita.com/rotep)
 - ✉️ **Contact:** lzhongben6@gmail.com
