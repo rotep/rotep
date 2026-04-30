@@ -48,4 +48,3 @@ I am a researcher and engineer based in Gunma, Japan, currently studying at Gunm
 - 💼 **LinkedIn:** [tsukamotoriku](https://www.linkedin.com/in/tsukamotoriku/)
 - 📝 **Qiita:** [rotep](https://qiita.com/rotep)
 - ✉️ **Contact:** lzhongben6@gmail.com
-- 
