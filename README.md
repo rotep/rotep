@@ -6,6 +6,12 @@ I am a researcher and engineer based in Gunma, Japan, currently studying at Gunm
 
 ---
 
+<p align="center">
+  <a href="https://nekomario28.github.io/interactive-project-map/u/?username=rotep&style=galaxy-classic">
+    <img width="740" src="https://raw.githubusercontent.com/rotep/rotep/HEAD/project-map/galaxy.svg" alt="rotep project map" />
+  </a>
+</p>
+
 ### 🔭 Current Focus
 *   **Hardware R&D:** Building VR hardware to enhance immersion, including **TepTracker** (a 10-point VR tracking system based on nRF52840 & LSM6DSV) and **Foot01** (an ankle-wearable BLE input device).
 *   **Academic Research:** Investigating Avatar Identification and "Layered Self" formation in network societies at the Comparative Culture & Sociology Lab.
