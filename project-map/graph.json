@@ -1,6 +1,6 @@
 {
   "owner": "rotep",
-  "generatedAt": "2026-10-13T11:00:17.506Z",
+  "generatedAt": "2026-10-14T08:59:33.046Z",
   "repositoryCount": 5,
   "groupCount": 3,
   "nodes": [
@@ -29,7 +29,7 @@
       "fork": false,
       "archived": false,
       "createdAt": "2026-10-13T05:50:20Z",
-      "updatedAt": "2026-10-13T09:28:27Z",
+      "updatedAt": "2026-10-13T16:38:42Z",
       "groupId": "hardware-embedded",
       "groupLabel": "Hardware & Embedded",
       "classification": {
@@ -394,7 +394,7 @@
   "classificationVersion": 1,
   "taxonomy": {
     "schemaVersion": 1,
-    "corpusFingerprint": "403af3ea0286e1932ad3ca82a6c12c52b676f09cce2e0b248f4869d6bb1415c1",
+    "corpusFingerprint": "b958d2920b58084f45d2f824e5001b1c501a657115e3cfff3236130eff3db6a3",
     "repositories": [
       {
         "repoId": 1233872401,
@@ -419,7 +419,7 @@
       {
         "repoId": 1416528763,
         "name": "spillway-ci",
-        "contentHash": "30f0546f7fbf5dfc8522aa392fba944a1286b154d91770da62d6105216dd71cd"
+        "contentHash": "1f19400dbcaa456e5df29a455b3aa7b6da17fc593e4cbd00d657c74f4b81b795"
       }
     ],
     "categories": [
