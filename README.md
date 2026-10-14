@@ -39,7 +39,6 @@ Most of my projects live in private repositories. Linked names are public; the r
 
 **📚 Research & Community**
 *   **Academic Research:** Investigating Avatar Identification and "Layered Self" formation in network societies at the Comparative Culture & Sociology Lab.
-*   **Habataki (Gunma University AI Circle):** Representative of a 20-member circle; presented at JSAI 2026.
 *   **AI Evaluation & Governance:** Working on RLHF data correction and QA for large-scale AI projects (OneForma / Centific), and acting as a Google Gemini Student Ambassador.
 
 ---
